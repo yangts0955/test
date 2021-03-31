@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".DS_Store" type="HTML" />
       <mapping ext="bna" type="PLAIN_TEXT" />
+      <mapping pattern="application-test" type="YAML" />
     </extensionMap>
   </component>
 </application>
