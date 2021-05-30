@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="defaultScope" value="Project Files" />
+    <option name="categories">
+      <map>
+        <entry id="JAVA" categories="Fields;Constructors;Methods" />
+      </map>
+    </option>
+  </component>
+</application>
